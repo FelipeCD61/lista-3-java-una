@@ -1,4 +1,4 @@
-# lista-3-java-una
+# lista-exercicio-3-java
 By: Felipe Claver Diniz [VS Code]
 
 Centro Universitário UNA
