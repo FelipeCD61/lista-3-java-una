@@ -7,7 +7,7 @@ Professor Daniel Henrique Matos de Paiva<br>
 
 Lista de Exercícios III em Java: Estrutura de Repetição
 
-Considerações Iniciais:
+Considerações Iniciais:<br>
 Esta lista de exercício deve:
 - Ser realizada em equipes de até 07 alunos.
 - Ser entregue no prazo proposto.
