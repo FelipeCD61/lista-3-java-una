@@ -58,7 +58,7 @@ public class ListaTresExercicioTres {
     }
 
     while(true) {
-      System.out.println("\nDigite seu estado civil: \ns -  solteiro(a) \nc - casado(a) \nv - viúvo(a) \nd - divorsiado(a)\n-------------------------------------------------"); //Aqui coloquei uma linha divisória
+      System.out.println("\nDigite seu estado civil: \ns -  solteiro(a) \nc - casado(a) \nv - viúvo(a) \nd - divorciado(a)\n-------------------------------------------------"); //Aqui coloquei uma linha divisória
       estado = sc.next();
             
       if (estado.equals("s")) {
